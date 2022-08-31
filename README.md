@@ -1,2 +1,2 @@
-My first readme
+git and grit
 anything works
